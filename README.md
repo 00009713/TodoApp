@@ -2,7 +2,7 @@
 1)Download the source code
 
 ```bash
-git clone 
+git clone https://github.com/00009713/todoapp.git
 ```
 Or you can download the to-do-app.zip file
 
