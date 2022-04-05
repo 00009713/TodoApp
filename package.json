@@ -4,7 +4,8 @@
   "description": "1)Download the source code",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app",
+    "build": "npm i",
   },
   "author": "",
   "license": "ISC",
