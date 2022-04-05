@@ -2,7 +2,7 @@
 1)Download the source code
 
 ```bash
-git clone https://github.com/00009713/todoapp.git
+git clone https://github.com/00009713/TodoApp
 ```
 Or you can download the to-do-app.zip file
 
@@ -20,7 +20,8 @@ node app
 
 #### Link to GitHUb repo 
 
-https://github.com/00009713/todoapp.git
+https://github.com/00009713/TodoApp
 
 #### Link to web application
 
+https://mercurial-giddy-coal.glitch.me/
